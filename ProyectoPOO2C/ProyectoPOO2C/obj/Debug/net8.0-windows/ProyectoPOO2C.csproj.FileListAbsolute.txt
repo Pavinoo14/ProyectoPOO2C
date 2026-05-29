@@ -1,0 +1,16 @@
+C:\Users\juare\source\repos\ProyectoPOO2C\ProyectoPOO2C\obj\Debug\net8.0-windows\ProyectoPOO2C.Form1.resources
+C:\Users\juare\source\repos\ProyectoPOO2C\ProyectoPOO2C\obj\Debug\net8.0-windows\ProyectoPOO2C.csproj.GenerateResource.cache
+C:\Users\juare\source\repos\ProyectoPOO2C\ProyectoPOO2C\obj\Debug\net8.0-windows\ProyectoPOO2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juare\source\repos\ProyectoPOO2C\ProyectoPOO2C\obj\Debug\net8.0-windows\ProyectoPOO2C.AssemblyInfoInputs.cache
+C:\Users\juare\source\repos\ProyectoPOO2C\ProyectoPOO2C\obj\Debug\net8.0-windows\ProyectoPOO2C.AssemblyInfo.cs
+C:\Users\juare\source\repos\ProyectoPOO2C\ProyectoPOO2C\obj\Debug\net8.0-windows\ProyectoPOO2C.csproj.CoreCompileInputs.cache
+C:\Users\juare\source\repos\ProyectoPOO2C\ProyectoPOO2C\bin\Debug\net8.0-windows\ProyectoPOO2C.exe
+C:\Users\juare\source\repos\ProyectoPOO2C\ProyectoPOO2C\bin\Debug\net8.0-windows\ProyectoPOO2C.deps.json
+C:\Users\juare\source\repos\ProyectoPOO2C\ProyectoPOO2C\bin\Debug\net8.0-windows\ProyectoPOO2C.runtimeconfig.json
+C:\Users\juare\source\repos\ProyectoPOO2C\ProyectoPOO2C\bin\Debug\net8.0-windows\ProyectoPOO2C.dll
+C:\Users\juare\source\repos\ProyectoPOO2C\ProyectoPOO2C\bin\Debug\net8.0-windows\ProyectoPOO2C.pdb
+C:\Users\juare\source\repos\ProyectoPOO2C\ProyectoPOO2C\obj\Debug\net8.0-windows\ProyectoPOO2C.dll
+C:\Users\juare\source\repos\ProyectoPOO2C\ProyectoPOO2C\obj\Debug\net8.0-windows\refint\ProyectoPOO2C.dll
+C:\Users\juare\source\repos\ProyectoPOO2C\ProyectoPOO2C\obj\Debug\net8.0-windows\ProyectoPOO2C.pdb
+C:\Users\juare\source\repos\ProyectoPOO2C\ProyectoPOO2C\obj\Debug\net8.0-windows\ProyectoPOO2C.genruntimeconfig.cache
+C:\Users\juare\source\repos\ProyectoPOO2C\ProyectoPOO2C\obj\Debug\net8.0-windows\ref\ProyectoPOO2C.dll
